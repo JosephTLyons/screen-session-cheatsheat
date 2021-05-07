@@ -4,9 +4,9 @@
 
 `screen`
 
-## Create a named screen session
+## Create or attach to an existing named screen session
 
-`screen -S <session name>`
+`screen -R <session name>`
 
 ## Kill a specific screen session
 
@@ -23,10 +23,6 @@
 ## List all active screen sessions
 
 `screen -ls`
-
-## Attach to a screen session
-
-`screen -R <screen session id>`
 
 ## Kill the current screen session
 
