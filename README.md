@@ -4,7 +4,7 @@
 
 `screen`
 
-## Create or attach to an existing named screen session
+## Create a named screen session or attach to an existing named screen session
 
 `screen -R <session name>`
 
