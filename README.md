@@ -27,3 +27,7 @@
 ## Kill the current screen session
 
 `control` + `a`, release keys, then `k`
+
+## Force detach screen session from another ssh session
+
+`screen -r <session name>`
